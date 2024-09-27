@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "../../../../Front End/Javascript/Demo"
+    },
+    {
+      "path": "../../../../MusicPlayer"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "iloveyou"
+  }
+}
